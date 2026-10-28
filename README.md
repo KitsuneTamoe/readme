@@ -16,6 +16,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
 </div>
 
+<div align="center">
+  <img src="https://www.svgrepo.com/show/452115/telegram.svg" height="40" alt="telegram logo"  />
+  <img width="12" />
+</div>
+
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=KitsuneTamoe&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
 </p>
