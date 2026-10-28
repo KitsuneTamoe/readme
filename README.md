@@ -1,9 +1,9 @@
-# Привет! Я [KitsuneTamoe] 👋
+# Welcome to I'am KitsuneTamoe👋
 
 <!-- БЕЙДЖИ И КНОПКИ СОЦСЕТЕЙ -->
 <p align="left">
   <a href="https://t.me" target="_blank">
-    <img src="https://shields.io" alt="Telegram Channel">
+    <img src="[https://shields.i](https://www.svgrepo.com/show/452115/telegram.svg" alt="Telegram Channel">
   </a>
   <a href="https://t.me" target="_blank">
     <img src="https://shields.io" alt="Telegram Chat">
