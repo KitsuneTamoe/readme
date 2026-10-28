@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-  <img src="https://www.svgrepo.com/show/452115/telegram.svg" height="40" alt="telegram logo"  />
+  <img src="https://www.svgrepo.com/show/452115/telegram.svg" height="50" alt="telegram logo"  />
   <img width="25" />
 </div>
 
